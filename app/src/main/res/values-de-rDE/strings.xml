@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Drei Währungen Konverter</string>
+    <string name="ammount_of_money">Geldsumme</string>
+    <string name="from_currency">"Aus: "</string>
+    <string name="to_currency">"Zu: "</string>
+    <string name="convert">Konvertieren</string>
+    <string name="refreshed">"Aufgefrischt: "</string>
+    <string name="refresh">Aufgefrisch</string>
+    <string name="no_money_ammount">Bitte geben Sie einige Geldsumme</string>
+    <string name="no_currency">Bitte wählen Sie ein Währung</string>
+    <string name="loading">Beladung...</string>
+    <string name="load_failed">Konversion gescheitert. nochmal.</string>
+</resources>

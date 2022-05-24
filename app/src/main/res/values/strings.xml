@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Three Currencies Converter</string>
+
+    <string name="ammount_of_money">Amount of money</string>
+    <string name="from_currency">From: </string>
+    <string name="to_currency">To: </string>
+    <string name="convert">Convert</string>
+    <string name="refreshed">Refreshed: </string>
+    <string name="refresh">Refresh</string>
+    <string name="no_money_ammount">Please enter some amount of money</string>
+    <string name="no_currency">Please choose currency</string>
+    <string name="loading">Loading...</string>
+    <string name="load_failed">Conversion failed. Try again.</string>
+</resources>

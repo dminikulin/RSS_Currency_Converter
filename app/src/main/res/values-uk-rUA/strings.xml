@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Конвертер трьох валют</string>
+    <string name="ammount_of_money">Кількість грошей</string>
+    <string name="from_currency">"З: "</string>
+    <string name="to_currency">"На: "</string>
+    <string name="convert">Конвертувати</string>
+    <string name="refreshed">"Оновлено: "</string>
+    <string name="refresh">Оновити</string>
+    <string name="no_money_ammount">Введіть якусь суму грошей</string>
+    <string name="no_currency">Оберіть валюту</string>
+    <string name="loading">Завантаження...</string>
+    <string name="load_failed">Конвертація не вдалась. Спробуйте ще раз.</string>
+</resources>

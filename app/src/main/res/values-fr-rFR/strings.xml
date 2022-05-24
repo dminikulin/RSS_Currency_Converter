@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Convertisseur de trois devises</string>
+    <string name="ammount_of_money">Montant de la somme</string>
+    <string name="from_currency">"De: "</string>
+    <string name="to_currency">"Au: "</string>
+    <string name="convert">Convertir</string>
+    <string name="refresh">Rafraichir</string>
+    <string name="refreshed">"Rafraichis: "</string>
+    <string name="no_money_ammount">Veuillez entrer un certain montant de la somme</string>
+    <string name="no_currency">Veuillez choisir la devise</string>
+    <string name="loading">Chargement...</string>
+    <string name="load_failed">Conversion manque. Essayez encore.</string>
+</resources>
